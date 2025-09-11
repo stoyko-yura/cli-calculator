@@ -1,0 +1,13 @@
+# Binaries
+cli-calculator
+*.exe
+*.out
+
+# Go build cache
+*.test
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
