@@ -6,7 +6,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/твой-ник/cli-calculator.git
+git clone https://github.com/stoyko-yuri/cli-calculator.git
 cd cli-calculator
 go build -o calc
 ```
